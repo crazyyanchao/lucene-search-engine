@@ -2,6 +2,8 @@
 ## 版本信息
 lucene-core-5.5.5 IKAnalyzer-5.X
 
+中文分词源码包：casia.isi.zdr.wltea
+
 ## LUCENE查询语法
 1、基础的查询语法，关键词查询：
 
