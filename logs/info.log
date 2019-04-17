@@ -1,0 +1,75 @@
+2019-04-17 13:23:08[casia.isi.zdr.wltea.analyzer.dic.Dictionary.<init>(Dictionary.java:108)] try load config from dic\dic-cfg\IKAnalyzer.cfg.xml
+2019-04-17 13:23:10[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:140)] [Dict Loading] ---------- based dict ... 
+2019-04-17 13:23:10[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] main.dic
+2019-04-17 13:23:10[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] surname.dic
+2019-04-17 13:23:10[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] quantifier.dic
+2019-04-17 13:23:10[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] suffix.dic
+2019-04-17 13:23:10[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] preposition.dic
+2019-04-17 13:23:10[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] stopword.dic
+2019-04-17 13:23:10[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:145)] [Dict Loading] ---------- high grade dict ... 
+2019-04-17 13:23:16[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\user-dic\user_defined.dic
+2019-04-17 13:23:16[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word_low_freq.dic
+2019-04-17 13:23:16[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word_full.dic
+2019-04-17 13:23:16[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word.dic
+2019-04-17 13:23:16[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_main.dic
+2019-04-17 13:23:17[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadStopWordDict(Dictionary.java:524)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_stopword.dic
+2019-04-17 13:27:48[casia.isi.zdr.wltea.analyzer.dic.Dictionary.<init>(Dictionary.java:108)] try load config from dic\dic-cfg\IKAnalyzer.cfg.xml
+2019-04-17 13:27:48[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:140)] [Dict Loading] ---------- based dict ... 
+2019-04-17 13:27:48[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] main.dic
+2019-04-17 13:27:48[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] surname.dic
+2019-04-17 13:27:48[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] quantifier.dic
+2019-04-17 13:27:48[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] suffix.dic
+2019-04-17 13:27:48[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] preposition.dic
+2019-04-17 13:27:48[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] stopword.dic
+2019-04-17 13:27:48[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:145)] [Dict Loading] ---------- high grade dict ... 
+2019-04-17 13:27:49[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\user-dic\user_defined.dic
+2019-04-17 13:27:49[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word_low_freq.dic
+2019-04-17 13:27:49[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word_full.dic
+2019-04-17 13:27:49[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word.dic
+2019-04-17 13:27:49[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_main.dic
+2019-04-17 13:27:49[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadStopWordDict(Dictionary.java:524)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_stopword.dic
+2019-04-17 13:28:04[casia.isi.zdr.wltea.analyzer.dic.Dictionary.<init>(Dictionary.java:108)] try load config from dic\dic-cfg\IKAnalyzer.cfg.xml
+2019-04-17 13:28:04[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:140)] [Dict Loading] ---------- based dict ... 
+2019-04-17 13:28:04[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] main.dic
+2019-04-17 13:28:04[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] surname.dic
+2019-04-17 13:28:04[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] quantifier.dic
+2019-04-17 13:28:04[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] suffix.dic
+2019-04-17 13:28:04[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] preposition.dic
+2019-04-17 13:28:04[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] stopword.dic
+2019-04-17 13:28:04[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:145)] [Dict Loading] ---------- high grade dict ... 
+2019-04-17 13:28:04[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\user-dic\user_defined.dic
+2019-04-17 13:28:04[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word_low_freq.dic
+2019-04-17 13:28:04[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word_full.dic
+2019-04-17 13:28:04[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word.dic
+2019-04-17 13:28:04[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_main.dic
+2019-04-17 13:28:05[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadStopWordDict(Dictionary.java:524)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_stopword.dic
+2019-04-17 13:31:30[casia.isi.zdr.wltea.analyzer.dic.Dictionary.<init>(Dictionary.java:108)] try load config from dic\dic-cfg\IKAnalyzer.cfg.xml
+2019-04-17 13:31:30[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:140)] [Dict Loading] ---------- based dict ... 
+2019-04-17 13:31:30[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] main.dic
+2019-04-17 13:31:30[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] surname.dic
+2019-04-17 13:31:30[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] quantifier.dic
+2019-04-17 13:31:30[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] suffix.dic
+2019-04-17 13:31:30[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] preposition.dic
+2019-04-17 13:31:30[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] stopword.dic
+2019-04-17 13:31:30[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:145)] [Dict Loading] ---------- high grade dict ... 
+2019-04-17 13:31:30[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\user-dic\user_defined.dic
+2019-04-17 13:31:30[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word_low_freq.dic
+2019-04-17 13:31:30[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word_full.dic
+2019-04-17 13:31:30[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word.dic
+2019-04-17 13:31:30[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_main.dic
+2019-04-17 13:31:31[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadStopWordDict(Dictionary.java:524)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_stopword.dic
+2019-04-17 13:35:50[casia.isi.zdr.wltea.analyzer.dic.Dictionary.<init>(Dictionary.java:108)] try load config from dic\dic-cfg\IKAnalyzer.cfg.xml
+2019-04-17 13:35:50[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:140)] [Dict Loading] ---------- based dict ... 
+2019-04-17 13:35:50[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] main.dic
+2019-04-17 13:35:50[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] surname.dic
+2019-04-17 13:35:50[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] quantifier.dic
+2019-04-17 13:35:50[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] suffix.dic
+2019-04-17 13:35:50[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] preposition.dic
+2019-04-17 13:35:50[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:143)] [Dict Loading] stopword.dic
+2019-04-17 13:35:50[casia.isi.zdr.wltea.analyzer.dic.Dictionary.printDefalutDic(Dictionary.java:145)] [Dict Loading] ---------- high grade dict ... 
+2019-04-17 13:35:51[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\user-dic\user_defined.dic
+2019-04-17 13:35:51[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word_low_freq.dic
+2019-04-17 13:35:51[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word_full.dic
+2019-04-17 13:35:51[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_single_word.dic
+2019-04-17 13:35:51[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadExtDict(Dictionary.java:422)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_main.dic
+2019-04-17 13:35:52[casia.isi.zdr.wltea.analyzer.dic.Dictionary.loadStopWordDict(Dictionary.java:524)] [Dict Loading] C:\Users\11416\Desktop\project\workspace\lucene-search-engine\dic\dic-cfg\extra_stopword.dic
