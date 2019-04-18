@@ -44,10 +44,13 @@ lucene-core-5.5.5 IKAnalyzer-5.X
  
  4、组合条件查询
   
-  　　条件1 AND 条件2
+  　　条件1 AND 条件2 / 条件1 OR 条件2 / 条件1 NOT 条件2
   
-  　　条件1 OR 条件2
+ 5、模糊搜索* 相似搜索~
   
-  　　条件1 NOT 条件2
-  
-  
+ 6、表达式分组
+   
+   表示必须为男性，且括号中条件必须满足一个
+      
+   例: +(FacebookID.locality:BeiJing FacebookID.ReligiousViews:Methodist) +FacebookID.Gender:男
+      
